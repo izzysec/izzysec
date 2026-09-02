@@ -8,7 +8,7 @@ Building offensive tooling, automation, and AI-assisted security workflows.
 
 ## Socials 
 - [X](https://x.com/izzy0101010101)
-- Email: izzy0101010101@gmail.com
+- Email: izzysecurity@gmail.com
 
 ## 🔍 Security Research
 
