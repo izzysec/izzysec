@@ -7,7 +7,7 @@ Building offensive tooling, automation, and AI-assisted security workflows.
 [Website](https://nullreport.app) · [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
 
 ## Socials 
-- [X](https://x.com/izzy0101010101)
+- [X](https://x.com/izzysecurity)
 - Email: izzysecurity@gmail.com
 
 ## 🔍 Security Research
