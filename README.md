@@ -30,8 +30,6 @@ Full write-ups live on [izzysec.github.io](https://izzysec.github.io).
 
 ## Projects
 
-- **[ai-offensive-code-review](https://github.com/izzysec/ai-offensive-code-review)**  
-  Point it at a codebase and get an attack surface map, data flows and security conditions worth validating, with file paths and line numbers instead of severity guesses.
 - **[NullReport](https://nullreport.app)**  
   A self-hosted, AI-assisted penetration test report generator. Findings become a reusable library, reports export as branded DOCX, and client data never leaves your machine. [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
 
