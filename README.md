@@ -40,4 +40,4 @@ Full write-ups live on [izzysec.github.io](https://izzysec.github.io).
 
 ## Contact
 
-The easiest way to reach me is a DM on [X](https://x.com/izzysecurity) or [LinkedIn](https://www.linkedin.com/in/isabel-mill-bb5a05177).
+Email me at [izzysecurity@gmail.com](mailto:izzysecurity@gmail.com) or DM me on [X](https://x.com/izzysecurity) or [LinkedIn](https://www.linkedin.com/in/isabel-mill-bb5a05177).
