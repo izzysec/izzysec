@@ -1,8 +1,7 @@
 <h1 align="center">Isabel Mill</h1>
 
 <p align="center">
-  <b>Security Researcher at Check Point Research</b><br>
-  Offensive security, vulnerability research and AI-assisted code review
+  <b>Security Researcher at Check Point Research</b>
 </p>
 
 <p align="center">
