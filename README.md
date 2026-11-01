@@ -13,7 +13,7 @@
 
 ---
 
-Offensive security researcher and full-stack developer. I break developer tools, and build a few of my own.
+Offensive security researcher and full-stack developer.
 
 ## CVEs
 
