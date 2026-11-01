@@ -13,7 +13,7 @@
 
 ---
 
-I look for the places where developer tools trust things they shouldn't: config files that ship inside a repository, URLs that end up in a shell, and code review screens that don't show what actually runs. Most of my findings sit somewhere in the software supply chain, in tools that developers and build servers run every day.
+Offensive security researcher and full-stack developer. I break developer tools, and build a few of my own.
 
 ## CVEs
 
