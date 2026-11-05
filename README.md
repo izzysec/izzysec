@@ -1,5 +1,3 @@
-<h1 align="center">Isabel Mill</h1>
-
 <p align="center">
   <b>Security Researcher at Check Point Research</b>
 </p>
