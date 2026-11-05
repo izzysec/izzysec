@@ -16,8 +16,6 @@ Offensive security researcher and full-stack developer.
 
 ## CVEs
 
-- **[CVE-2026-122299](https://izzysec.github.io/dulwich-duplicate-tree-cve-2026-122299/)** · Dulwich · High  
-  Dulwich took the last tree header in a commit while git takes the first, so Poetry can install a tree reviewers never saw.
 - **[CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/)** · Git LFS · High  
   A line break in a submodule URL injects Git config that makes Git LFS run an attacker's program.
 - **[CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/)** · Gitea · Critical  
