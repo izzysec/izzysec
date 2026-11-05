@@ -1,8 +1,4 @@
-<h1 align="center">Offensive security researcher and full-stack developer.</h1>
-
-<p align="center">
-  <b>Security Researcher at Check Point Research</b>
-</p>
+<h2 align="center">Offensive security researcher and full-stack developer.</h2>
 
 <p align="center">
   <a href="https://izzysec.github.io"><img src="https://img.shields.io/badge/blog-izzysec.github.io-e8a0b8?style=flat-square&labelColor=0e1114" alt="Blog"></a>
