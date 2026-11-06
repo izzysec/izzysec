@@ -21,10 +21,12 @@
 
 **Building**
 
+<a href="#"><img src="assets/link-nullpal.svg" alt="NullPal" height="21" align="absmiddle"></a> (in development): AI-automated bug hunting, end to end.
+
 <a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport" height="21"></a><br>
-A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine.<br>
+A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine.
+
 <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="18"></a>&nbsp;&nbsp;<a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="18"></a>
-<br><img src="assets/link-nullpal.svg" alt="NullPal" height="21" align="absmiddle"> (in development): AI-automated bug hunting, end to end.
 
 </td>
 <td width="50%" valign="top">
