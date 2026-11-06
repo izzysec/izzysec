@@ -8,6 +8,7 @@
 
 | CVE | Project | Severity | Summary |
 | --- | --- | --- | --- |
+| <a href="https://izzysec.github.io/dulwich-duplicate-tree-cve-2026-122299/"><img src="assets/link-cve-2026-122299.svg" alt="CVE-2026-122299" height="20" align="absmiddle"></a> | Dulwich | High | Duplicate tree header: git review sees one tree, Poetry installs another. |
 | <a href="https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/"><img src="assets/link-cve-2026-105802.svg" alt="CVE-2026-105802" height="20" align="absmiddle"></a> | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
 | <a href="https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/"><img src="assets/link-cve-2026-95106.svg" alt="CVE-2026-95106" height="20" align="absmiddle"></a> | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
 | <a href="https://izzysec.github.io/isomorphic-git-prototype-pollution-cve-2026-89011/"><img src="assets/link-cve-2026-89011.svg" alt="CVE-2026-89011" height="20" align="absmiddle"></a> | isomorphic-git | High | `__proto__` branch pollutes JS prototype and hijacks Git logins. |
