@@ -1,10 +1,6 @@
 <h2 align="center">Offensive security researcher and full-stack developer.</h2>
 
-<p align="center">
-  <a href="https://izzysec.github.io"><img src="https://img.shields.io/badge/blog-izzysec.github.io-e8a0b8?style=flat-square&labelColor=0e1114" alt="Blog"></a>
-  <a href="https://x.com/izzysecurity"><img src="https://img.shields.io/badge/X-@izzysecurity-e8a0b8?style=flat-square&labelColor=0e1114&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/isabel-mill-bb5a05177"><img src="https://img.shields.io/badge/LinkedIn-Isabel%20Mill-e8a0b8?style=flat-square&labelColor=0e1114&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<p align="center"><a href="https://izzysec.github.io"><img src="assets/bar-blog.svg" alt="Blog: izzysec.github.io" height="40"></a><a href="https://x.com/izzysecurity"><img src="assets/bar-x.svg" alt="X: @izzysecurity" height="40"></a><a href="https://www.linkedin.com/in/isabel-mill-bb5a05177"><img src="assets/bar-linkedin.svg" alt="LinkedIn: Isabel Mill" height="40"></a></p>
 
 ---
 
