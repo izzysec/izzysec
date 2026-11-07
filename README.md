@@ -4,18 +4,17 @@
   <a href="https://izzysec.github.io"><img src="assets/bar-blog.svg" alt="Blog: izzysec.github.io" height="36"></a><a href="https://x.com/izzysecurity"><img src="assets/bar-x.svg" alt="X: @izzysecurity" height="36"></a><a href="https://www.linkedin.com/in/isabel-mill-bb5a05177"><img src="assets/bar-linkedin.svg" alt="LinkedIn: Isabel Mill" height="36"></a>
 </p>
 
-## CVEs
+## Selected research
 
 | CVE | Project | Severity | Summary |
 | --- | --- | --- | --- |
-| [CVE-2026-122299](https://izzysec.github.io/dulwich-duplicate-tree-cve-2026-122299/) | Dulwich | High | Duplicate tree header: git review sees one tree, Poetry installs another. |
-| [CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/) | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
-| [CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/) | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
-| [CVE-2026-89011](https://izzysec.github.io/isomorphic-git-prototype-pollution-cve-2026-89011/) | isomorphic-git | High | `__proto__` branch pollutes JS prototype and hijacks Git logins. |
-| [CVE-2026-5917](https://izzysec.github.io/libgit2-ssh-command-injection-cve-2026-5917/) | libgit2 | High | Unquoted SSH path lets a crafted Git URL run commands as you. |
 | [CVE-2025-61260](https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/) | OpenAI Codex CLI | Critical | Project-local config makes Codex CLI run attacker code on open. |
+| [CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/) | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
+| [CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/) | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
 
-**Building**
+More CVEs and write-ups on [izzysec.github.io](https://izzysec.github.io).
+
+## Building
 
 **NullPal** (in development): AI-automated bug hunting, end to end.
 
@@ -23,7 +22,7 @@
 
 **[ai-offensive-code-review](https://github.com/izzysec/ai-offensive-code-review)**: Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
 
-**Certifications**
+## Certifications
 
 **[ARTE](https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8)**: AWS Red Team Expert<br>**[eWPTX](https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3)**: Web Application Penetration Tester eXtreme
 
