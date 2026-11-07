@@ -15,10 +15,6 @@
 | <a href="https://izzysec.github.io/libgit2-ssh-command-injection-cve-2026-5917/"><img src="assets/link-cve-2026-5917.svg" alt="CVE-2026-5917" height="20" align="absmiddle"></a> | libgit2 | High | Unquoted SSH path lets a crafted Git URL run commands as you. |
 | <a href="https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/"><img src="assets/link-cve-2025-61260.svg" alt="CVE-2025-61260" height="20" align="absmiddle"></a> | OpenAI Codex CLI | Critical | Project-local config makes Codex CLI run attacker code on open. |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Building**
 
 <a href="https://github.com/izzysec/nullpal-public"><img src="assets/link-nullpal.svg" alt="NullPal" height="21" align="absmiddle"></a> (in development): AI-automated bug hunting, end to end.
@@ -28,16 +24,9 @@ A self-hosted, AI-assisted pentest report generator. Findings become a reusable 
 
 <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="18"></a>&nbsp;&nbsp;<a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="18"></a>
 
-</td>
-<td width="50%" valign="top">
-
 **Certifications**
 
 **ARTE**, AWS Red Team Expert<br>
 **eWPTX**, Web Application Penetration Tester eXtreme
-
-</td>
-</tr>
-</table>
 
 <p align="center"><sub>Questions or collabs: <a href="mailto:izzysecurity@gmail.com"><img src="assets/link-email.svg" alt="izzysecurity@gmail.com" height="18" align="absmiddle"></a></sub></p>
