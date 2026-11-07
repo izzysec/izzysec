@@ -16,7 +16,7 @@ More CVEs and write-ups on [izzysec.github.io](https://izzysec.github.io).
 
 ### Work
 
-**NullPal** (in development): AI-automated bug hunting, end to end.
+**NullPal** (in development): AI-automated bug hunting.
 
 **[NullReport](https://nullreport.app)**: A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
 
