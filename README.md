@@ -17,14 +17,14 @@
 
 **Building**
 
-<img src="assets/link-nullpal.svg" alt="NullPal" height="36" align="middle"> (in development): AI-automated bug hunting, end to end.
+<img src="assets/link-nullpal.svg" alt="NullPal" height="22" align="middle"> (in development): AI-automated bug hunting, end to end.
 
-<a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport:" height="36" align="middle"></a> A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="36" align="middle"></a> · <a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="36" align="middle"></a>
+<a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport:" height="22" align="middle"></a> A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="22" align="middle"></a> · <a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="22" align="middle"></a>
 
-<a href="https://github.com/izzysec/ai-offensive-code-review"><img src="assets/link-ai-offensive-code-review.svg" alt="ai-offensive-code-review:" height="36" align="middle"></a> Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
+<a href="https://github.com/izzysec/ai-offensive-code-review"><img src="assets/link-ai-offensive-code-review.svg" alt="ai-offensive-code-review:" height="22" align="middle"></a> Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
 
 **Certifications**
 
-<a href="https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8"><img src="assets/link-arte.svg" alt="ARTE:" height="36" align="middle"></a> AWS Red Team Expert<br><a href="https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3"><img src="assets/link-ewptx.svg" alt="eWPTX:" height="36" align="middle"></a> Web Application Penetration Tester eXtreme
+<a href="https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8"><img src="assets/link-arte.svg" alt="ARTE:" height="22" align="middle"></a> AWS Red Team Expert<br><a href="https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3"><img src="assets/link-ewptx.svg" alt="eWPTX:" height="22" align="middle"></a> Web Application Penetration Tester eXtreme
 
 <p align="center"><sub>Questions or collabs: <a href="mailto:izzysecurity@gmail.com"><img src="assets/link-email.svg" alt="izzysecurity@gmail.com" height="20" align="absmiddle"></a></sub></p>
