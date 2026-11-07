@@ -8,23 +8,23 @@
 
 | CVE | Project | Severity | Summary |
 | --- | --- | --- | --- |
-| [CVE-2026-122299](https://izzysec.github.io/dulwich-duplicate-tree-cve-2026-122299/) | Dulwich | High | Duplicate tree header: git review sees one tree, Poetry installs another. |
-| [CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/) | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
-| [CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/) | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
-| [CVE-2026-89011](https://izzysec.github.io/isomorphic-git-prototype-pollution-cve-2026-89011/) | isomorphic-git | High | `__proto__` branch pollutes JS prototype and hijacks Git logins. |
-| [CVE-2026-5917](https://izzysec.github.io/libgit2-ssh-command-injection-cve-2026-5917/) | libgit2 | High | Unquoted SSH path lets a crafted Git URL run commands as you. |
-| [CVE-2025-61260](https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/) | OpenAI Codex CLI | Critical | Project-local config makes Codex CLI run attacker code on open. |
+| <a href="https://izzysec.github.io/dulwich-duplicate-tree-cve-2026-122299/"><img src="assets/link-cve-2026-122299.svg" alt="CVE-2026-122299" height="22" align="absmiddle"></a> | Dulwich | High | Duplicate tree header: git review sees one tree, Poetry installs another. |
+| <a href="https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/"><img src="assets/link-cve-2026-105802.svg" alt="CVE-2026-105802" height="22" align="absmiddle"></a> | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
+| <a href="https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/"><img src="assets/link-cve-2026-95106.svg" alt="CVE-2026-95106" height="22" align="absmiddle"></a> | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
+| <a href="https://izzysec.github.io/isomorphic-git-prototype-pollution-cve-2026-89011/"><img src="assets/link-cve-2026-89011.svg" alt="CVE-2026-89011" height="22" align="absmiddle"></a> | isomorphic-git | High | `__proto__` branch pollutes JS prototype and hijacks Git logins. |
+| <a href="https://izzysec.github.io/libgit2-ssh-command-injection-cve-2026-5917/"><img src="assets/link-cve-2026-5917.svg" alt="CVE-2026-5917" height="22" align="absmiddle"></a> | libgit2 | High | Unquoted SSH path lets a crafted Git URL run commands as you. |
+| <a href="https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/"><img src="assets/link-cve-2025-61260.svg" alt="CVE-2025-61260" height="22" align="absmiddle"></a> | OpenAI Codex CLI | Critical | Project-local config makes Codex CLI run attacker code on open. |
 
 **Building**
 
-**NullPal** (in development): AI-automated bug hunting, end to end.
+<img src="assets/link-nullpal.svg" alt="NullPal" height="36" align="middle"> (in development): AI-automated bug hunting, end to end.
 
-**[NullReport](https://nullreport.app)**: A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
+<a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport:" height="36" align="middle"></a> A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="36" align="middle"></a> · <a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="36" align="middle"></a>
 
-**[ai-offensive-code-review](https://github.com/izzysec/ai-offensive-code-review)**: Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
+<a href="https://github.com/izzysec/ai-offensive-code-review"><img src="assets/link-ai-offensive-code-review.svg" alt="ai-offensive-code-review:" height="36" align="middle"></a> Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
 
 **Certifications**
 
-**[ARTE](https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8)**: AWS Red Team Expert<br>**[eWPTX](https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3)**: Web Application Penetration Tester eXtreme
+<a href="https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8"><img src="assets/link-arte.svg" alt="ARTE:" height="36" align="middle"></a> AWS Red Team Expert<br><a href="https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3"><img src="assets/link-ewptx.svg" alt="eWPTX:" height="36" align="middle"></a> Web Application Penetration Tester eXtreme
 
-<p align="center"><sub>Questions or collabs: <a href="mailto:izzysecurity@gmail.com">izzysecurity@gmail.com</a></sub></p>
+<p align="center"><sub>Questions or collabs: <a href="mailto:izzysecurity@gmail.com"><img src="assets/link-email.svg" alt="izzysecurity@gmail.com" height="20" align="absmiddle"></a></sub></p>
