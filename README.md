@@ -19,10 +19,10 @@
 
 <a href="https://github.com/izzysec/nullpal-public"><img src="assets/link-nullpal.svg" alt="NullPal" height="16"></a> (in development): AI-automated bug hunting, end to end.
 
-<a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport" height="16"></a>: A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="18"></a> · <a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="18"></a>
+<a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport:" height="16"></a> A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="16"></a> · <a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="16"></a>
 
 **Certifications**
 
-<a href="https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8"><img src="assets/link-arte.svg" alt="ARTE" height="16"></a>: AWS Red Team Expert<br><a href="https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3"><img src="assets/link-ewptx.svg" alt="eWPTX" height="16"></a>: Web Application Penetration Tester eXtreme
+<a href="https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8"><img src="assets/link-arte.svg" alt="ARTE:" height="16"></a> AWS Red Team Expert<br><a href="https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3"><img src="assets/link-ewptx.svg" alt="eWPTX:" height="16"></a> Web Application Penetration Tester eXtreme
 
 <p align="center"><sub>Questions or collabs: <a href="mailto:izzysecurity@gmail.com"><img src="assets/link-email.svg" alt="izzysecurity@gmail.com" height="18" align="absmiddle"></a></sub></p>
