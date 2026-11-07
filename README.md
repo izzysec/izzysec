@@ -17,7 +17,7 @@
 
 **Building**
 
-<a href="https://github.com/izzysec/nullpal-public"><img src="assets/link-nullpal.svg" alt="NullPal" height="16"></a> (in development): AI-automated bug hunting, end to end.
+<a href="https://github.com/izzysec/nullpal-public"><img src="assets/link-nullpal.svg" alt="NullPal" height="16"></a> (in development): AI-automated bug hunting.
 
 <a href="https://nullreport.app"><img src="assets/link-nullreport.svg" alt="NullReport:" height="16"></a> A self-hosted, AI-assisted pentest report generator. Findings become a reusable library and client data never leaves your machine. <a href="https://docs.nullreport.app"><img src="assets/link-docs.svg" alt="Docs" height="16"></a><a href="https://github.com/nullreport"><img src="assets/link-github.svg" alt="GitHub" height="16"></a>
 
