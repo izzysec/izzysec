@@ -4,7 +4,7 @@
   <a href="https://izzysec.github.io"><img src="assets/bar-blog.svg" alt="Blog: izzysec.github.io" height="36"></a><a href="https://x.com/izzysecurity"><img src="assets/bar-x.svg" alt="X: @izzysecurity" height="36"></a><a href="https://www.linkedin.com/in/isabel-mill-bb5a05177"><img src="assets/bar-linkedin.svg" alt="LinkedIn: Isabel Mill" height="36"></a>
 </p>
 
-## Selected research
+### Research
 
 | CVE | Project | Severity | Summary |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 
 More CVEs and write-ups on [izzysec.github.io](https://izzysec.github.io).
 
-## Building
+### Work
 
 **NullPal** (in development): AI-automated bug hunting, end to end.
 
@@ -22,7 +22,7 @@ More CVEs and write-ups on [izzysec.github.io](https://izzysec.github.io).
 
 **[ai-offensive-code-review](https://github.com/izzysec/ai-offensive-code-review)**: Maps a codebase's attack surface, traces data flows, and writes proof of concept notes you can check yourself.
 
-## Certifications
+### Certifications
 
 **[ARTE](https://training.hacktricks.xyz/certificates/a7a33779-c812-4f35-9b46-a9f85cb808b8)**: AWS Red Team Expert<br>**[eWPTX](https://certs.ine.com/7e22d05d-6d73-439e-a1ac-8751df048df3)**: Web Application Penetration Tester eXtreme
 
