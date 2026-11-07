@@ -6,11 +6,11 @@
 
 ### Research
 
-| CVE | Project | Severity | Summary |
-| --- | --- | --- | --- |
-| [CVE-2025-61260](https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/) | OpenAI Codex CLI | Critical | Project-local config makes Codex CLI run attacker code on open. |
-| [CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/) | Gitea | Critical | Duplicate trees: reviewers see one file, checkout and CI run another. |
-| [CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/) | Git LFS | High | Submodule URL line break injects Git config; LFS runs attacker code. |
+| CVE | Project | Summary |
+| --- | --- | --- |
+| [CVE-2025-61260](https://izzysec.github.io/codex-cli-config-injection-cve-2025-61260/) | OpenAI Codex CLI | Opening a cloned repo was enough for Codex CLI to load its local config and run the attacker's commands. |
+| [CVE-2026-95106](https://izzysec.github.io/gitea-duplicate-tree-cve-2026-95106/) | Gitea | A commit with two trees showed reviewers a clean file while checkout and CI ran a different one. |
+| [CVE-2026-105802](https://izzysec.github.io/git-lfs-config-injection-cve-2026-105802/) | Git LFS | A line break in a submodule URL wrote attacker settings into Git config, so a normal clone ran their code. |
 
 More CVEs and write-ups on [izzysec.github.io](https://izzysec.github.io).
 
